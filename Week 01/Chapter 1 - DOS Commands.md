@@ -25,6 +25,6 @@ List a DOS tutorial you found on the Web that you found useful.
 
 ## DOS Tutorials
 
-1. https://en.wikipedia.org/wiki/List_of_DOS_commands
+1. <https://en.wikipedia.org/wiki/List_of_DOS_commands>
 
-2. https://www.c3scripts.com/tutorials/msdos/
+2. <https://www.c3scripts.com/tutorials/msdos/>
